@@ -22,5 +22,20 @@
   }
 ```
 
+#### Dedupe the following Array
+```js
+  const dupeArray = [
+    'first',
+    'dupe',
+    'first',
+    'dupe',
+    'second',
+    'third'
+  ]
+
+  function dedupeArray(arr) {
+    // Your code here
+  }
+```
 
 
